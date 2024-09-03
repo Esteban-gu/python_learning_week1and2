@@ -30,4 +30,4 @@ print("Your favorite animal is"+ favorite_animal)
 #the plus sign is used to concatenate strings
 
 #   lets do some practice
-#   all you gotta do is hawk tuah and spit on that than
+#   all you gotta do is hawk tuah and spit on that thang
